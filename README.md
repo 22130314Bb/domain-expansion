@@ -8,7 +8,7 @@
 
 
 
-SAT0RU é um visualizador de técnicas amaldiçoadas em tempo real, inspirado diretamente em Jujutsu Kaisen 呪術廻戦.
+Domain Expansion é um visualizador de técnicas amaldiçoadas em tempo real, inspirado diretamente em Jujutsu Kaisen 呪術廻戦.
 Usando gestos da mão, webcam e partículas 3D, o projeto recria Expansões de Domínio e Técnicas Amaldiçoadas como se vc fosse um feiticeiro de verdade.
 
 Construído com MediaPipe + Three.js 🧠
