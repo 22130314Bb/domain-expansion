@@ -113,7 +113,7 @@ Instalação
 
 1. Clone o repositório
 
-git clone https://github.com/brunogustavo74/domain-expansion.git
+git clone https://github.com/brun.gusta/domain-expansion.git
 cd domain-expansion
 
 
